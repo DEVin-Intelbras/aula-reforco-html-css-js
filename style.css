@@ -5,9 +5,11 @@
   overflow: hidden;
   background-color: aqua;
   position: relative;
+  margin-bottom: 1em;
 }
 
 img {
+  width: 100%;
   display: block;
 }
 
@@ -20,4 +22,8 @@ img {
   padding: 1em;
   margin: 0;
   bottom: 0;
+}
+
+#lista {
+  font-size: 3em;
 }
